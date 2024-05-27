@@ -1,1 +1,1 @@
-Assignment for the position of Frontend Developer intern ar koders.
+Assignment for the position of Frontend Developer intern at koders.
